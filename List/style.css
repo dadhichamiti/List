@@ -1,0 +1,18 @@
+
+
+ul .apple { 
+    margin-top: 5px;
+    list-style-image: url("apple.jpg");
+    
+}
+
+ul .mango { 
+    margin-top: 5px;
+    list-style-image: url("arrow.png");
+    
+}
+
+ul .banana{
+    margin-top: 5px;
+    list-style-image: url("at.png");
+}
